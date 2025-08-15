@@ -191,7 +191,6 @@ label {
     justify-content: space-between;
 }
 
-
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha {
         flex-direction: row;
@@ -200,5 +199,27 @@ label {
 
 
 
+
+/* fundo senha: a cor de fundo da senha   */
+/* fundo texto: a cor de fundo do texto */
+/* borda: cor da borda 
+/* roboto: nome de uma familia de fontes */
+/* roboto mono: uma fonte moespacada da familia do roboto, usada para ebibir codigo, numeros e interfaces */
+/* font weight: controla a espessura( GROSSURA ) das letras de um texto */
+/* background color: cor de fundo */
+/* font family: serve para dizer qual fonte o texto do seu site vai usar */
+/* color: define a cor do texto */
+/* font-size: define o tamanho da fonte usada */
+/* margin top: o espaço externo acima de um elemento */
+/* padding: espaco interno entre o conteudo de um elemento e a sua borda */
+/* border bottom: e uma prioridade usada para criar uma borda na parte inferior de um elemento */
+/* width: define largura de um elemento */
+/* outline: prioridade outline e usada para criar uma linha ao redor de um elemento, sem ocupar espaco extra */
+/* max width: define largura maxima, o elemento pide diminuir, mas nao pode ultrapassara */
+/* flex direction: uma prioridade do css usada flexbox  definir direcao que os itens flexiveis dentro de um conteiner */
+/* justify content: usada em flexbox ou grid para controlar como itens filhos sao distribuidos ao longo do eixo principal */
+/* display: a prioridade display define como um elemento html sera exibido na pagina */
+/* cursor: define o tipo de cursor que aparece quando o usario passa o nouse sobre um elemento na pagina */
+/*
 
 
